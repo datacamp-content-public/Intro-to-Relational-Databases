@@ -51,3 +51,15 @@ Do some data science.
 ```
 
 
+---
+
+## Insert exercise title here
+
+```yaml
+type: VideoExercise 
+xp: 50 
+key: 33f1d40b69   
+```
+
+`@projector_key`
+65abb579759e5531013034984211ff50
