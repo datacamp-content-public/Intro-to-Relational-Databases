@@ -53,7 +53,7 @@ Do some data science.
 
 ---
 
-## One to Many Relationships
+## Many to Many Relationships
 
 ```yaml
 type: VideoExercise 
