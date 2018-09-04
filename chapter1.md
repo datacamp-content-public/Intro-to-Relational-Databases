@@ -53,7 +53,7 @@ Do some data science.
 
 ---
 
-## Many to Many Relationships
+## Primary Keys and Foreign Keys
 
 ```yaml
 type: VideoExercise 
