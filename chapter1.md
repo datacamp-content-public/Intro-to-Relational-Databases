@@ -6,16 +6,14 @@ description: 'This is a template chapter.'
 ## Ex 1.1
 
 ```yaml
-type: NormalExercise 
+type: NormalExercise
+key: e5774f382d
 lang: sql
-xp: 100 
+xp: 100
 skills: 1
-key: e5774f382d   
 ```
 
-
 Do some data science.
-
 
 `@instructions`
 
@@ -24,41 +22,33 @@ Do some data science.
 
 
 `@pre_exercise_code`
-
 ```{python}
 
 ```
-
 
 `@sample_code`
-
 ```{sql}
 
 ```
-
 
 `@solution`
-
 ```{sql}
 
 ```
 
-
 `@sct`
-
 ```{python}
 
 ```
-
 
 ---
 
 ## Primary Keys and Foreign Keys
 
 ```yaml
-type: VideoExercise 
-xp: 50 
-key: 33f1d40b69   
+type: VideoExercise
+key: 33f1d40b69
+xp: 50
 ```
 
 `@projector_key`
